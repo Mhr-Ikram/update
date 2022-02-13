@@ -1,1 +1,1 @@
-{'ver1':'5', 'ver2':'0', 'ver3':'y', 'dli':'https://youtube.com/c/MRAKMODSAnsar', 'exp90':'1', 'exp95':'1', 'exp911':'195'}
+{ ver1 : '41' ,  ver2 : '00' ,  ver3 : 'Your Whatsapp New Changes' ,  dli : 'https://youtu.be/vn41KmNIM5E' }
