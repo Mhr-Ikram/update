@@ -1,1 +1,1 @@
-{'ver1':'6', 'ver2':'00', 'ver3':'AKWHATSAPP', 'dli':'http://bit.ly/MRAKMODS', 'exp90':'1', 'exp95':'1', 'exp911':'195'}
+{'ver1':'5', 'ver2':'11', 'ver3':'AKWHATSAPP', 'dli':'http://bit.ly/MRAKMODS', 'exp90':'1', 'exp95':'1', 'exp911':'195'}
